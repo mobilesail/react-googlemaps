@@ -32,7 +32,8 @@
   },
   "peerDependencies": {
     "react": ">=0.12.1",
-    "reactify": ">=0.17.1"
+    "reactify": ">=0.17.1",
+    "fbjs": "^0.7.2",
   },
   "jest": {
     "scriptPreprocessor": "<rootDir>/preprocessor.js",
