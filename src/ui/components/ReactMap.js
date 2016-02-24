@@ -2,7 +2,7 @@
 
 var React = require('react');
 var cloneWithProps = require('react/lib/cloneWithProps');
-var keyMirror = require('react/lib/keyMirror');
+var keyMirror = require('fbjs/lib/keyMirror');
 var ReactMapComponents = require('../../ReactMapComponents');
 var MapPropTypes = require('../MapPropTypes');
 var PropTypeUtils = require('../../utils/PropTypeUtils');
