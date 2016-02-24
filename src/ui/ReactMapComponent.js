@@ -1,7 +1,7 @@
 "use strict";
 
 var React = require('react');
-var invariant = require('react/lib/invariant');
+var invariant = require('fbjs/lib/invariant');
 var GoogleMapsAPI = require('../GoogleMapsAPI');
 var ReactMapComponentMixin = require('./ReactMapComponentMixin');
 
